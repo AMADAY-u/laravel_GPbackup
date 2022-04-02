@@ -62,3 +62,13 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+# git add commit push
+$ git add -A
+→Git管理上にすべてのファイルを追加する
+
+$ git commit -m “first commit”
+→Git管理上に先ほど追加したファイルを保存する（“first commit”部分は何でもOK）
+
+$ git push origin master
+→ソースコードをプッシュする
